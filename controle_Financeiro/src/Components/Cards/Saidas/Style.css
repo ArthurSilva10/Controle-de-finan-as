@@ -1,0 +1,24 @@
+.card-entradas
+{
+    width: 249px;
+    height: 154px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.card-entradas h2
+{
+    display: flex;
+    justify-content: center;
+    color: #6D28D9;
+    margin-bottom: 10px;
+}
+.card-entradas p
+{
+    display: flex;
+    justify-content: center;
+}
+#out-type
+{
+    color: #EF4444;
+}
